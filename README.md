@@ -44,7 +44,8 @@
 
 - 전체 실행 화면(좌측: 대시보드, 우측상단: 서버, 우측하단:워크스페이스)
 
-![image.png](image.png)
+<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/ca833aaa-c5c9-4e3c-9559-477af03ae89d" />
+
 
 - 실행영상 1-로그인 유지 및 파일 작업과 저장
 
