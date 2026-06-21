@@ -106,7 +106,8 @@ make
 ```
 
 # 5. 팀원 정보
-**Team 7**
+**[Team 7]**
+
 <img width="547" height="244" alt="image" src="https://github.com/user-attachments/assets/ad23fc74-a351-4090-a4e7-a426f25142a0" />
 
 
