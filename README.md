@@ -4,6 +4,7 @@
 
 다소 단조롭고 삭막하던 CLI 코딩 환경에 시각적인 재미를 주고, 랭킹 시스템과 채팅 기능을 통해 다른 사용자들과 자극을 주고 받으면서 학생들에게 지속적인 학습 동기를 부여하고자 본 프로젝트를 진행하였다. WATCH-PET은 사용자의 코딩 작업을 감시(Watch)한다는 기술적 의미와, 학습 시간의 척도가 되는 시계(Watch)의 의미를 동시에 담고 있다.
 
+
 # 2. 주요 기능 목록
 
 ### 1) 사용자 로그인 및 데이터 관리 기능
@@ -40,6 +41,7 @@
     - `read` 시스템 콜을 지속적으로 호출하여 실시간 데이터 수신
     - `write` 시스템 콜을 활용한 랭킹 및 채팅 갱신 데이터 브로드캐스트
 
+
 # 3. 스크린샷 (또는 데모)
 
 - 전체 실행 화면(좌측: 대시보드, 우측상단: 서버, 우측하단:워크스페이스)
@@ -47,21 +49,26 @@
 <img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/ca833aaa-c5c9-4e3c-9559-477af03ae89d" />
 
 
+
 - 실행영상 1-로그인 유지 및 파일 작업과 저장
 
 [https://drive.google.com/file/d/161oQebjzEnKad-VXFv-bd2ibX524rb9m/view?usp=drive_link](https://drive.google.com/file/d/161oQebjzEnKad-VXFv-bd2ibX524rb9m/view?usp=drive_link)
+
 
 - 실행영상 2-실시간 랭킹 반영
 
 [https://drive.google.com/file/d/13kUdKEGgl3htDtMucSsZYvvSugB0SGq-/view?usp=drive_link](https://drive.google.com/file/d/13kUdKEGgl3htDtMucSsZYvvSugB0SGq-/view?usp=drive_link)
 
+
 - 실행영상 3-로그인 기록 관리
 
 [https://drive.google.com/file/d/1aGF_npw3lCUmoVAjO19f_uMtZWA3fwOr/view?usp=drive_link](https://drive.google.com/file/d/1aGF_npw3lCUmoVAjO19f_uMtZWA3fwOr/view?usp=drive_link)
 
+
 - 실행영상 4- 사용자간 채팅
 
 [https://drive.google.com/file/d/1XttCq6CSHs0aO35IeJ70kGJGNDBX6iwh/view?usp=drive_link](https://drive.google.com/file/d/1XttCq6CSHs0aO35IeJ70kGJGNDBX6iwh/view?usp=drive_link)
+
 
 # 4. 빌드 및 실행 방법
 
@@ -104,6 +111,7 @@ make
 # 연동할 대시보드의 닉네임과 편집할 파일명(예: main.c) 입력 후 코딩 시작
 # 종료 시 '#' 입력
 ```
+
 
 # 5. 팀원 정보
 **[Team 7]**
